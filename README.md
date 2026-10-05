@@ -11,7 +11,7 @@ recipe_api/
 ├── app.py               ← Flask API
 ├── final_Datasets.csv   ← Your dataset
 ├── requirements.txt
-├── Procfile             ← For Render / Railway
+├── Procfile             
 └── README.md
 ```
 
